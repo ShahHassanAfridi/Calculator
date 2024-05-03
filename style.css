@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(31, 29, 29);
+}
+
+table { 
+    border: 1px solid black; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 30px 30px 30px 30px;
+    border-radius: 30px;
+    background-color: rgb(48, 45, 45);
+    box-shadow: 5px 5px 5px 5px black;
+} 
+  
+button{ 
+    width: 100%; 
+    padding: 20px 40px; 
+    background-color: rgb(71, 74, 71); 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px black;
+} 
+  
+input[type="text"] { 
+    width: 370px;
+    padding: 30px 30px; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 15px; 
+    border: 2px solid black; 
+    margin-bottom: 20px;
+    background-color: lightgreen;
+    box-shadow: 2px 2px 2px 2px black;
+} 
+
+#C{
+    background-color: red;
+}
+
+#equal-to{
+    background-color: blue;
+}
+
+#addition{
+    height: 150px;
+}
